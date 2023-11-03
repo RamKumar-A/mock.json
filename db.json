@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Classic Literature",
+      "price": 12.99,
+      "description": "A story of wealth, privilege, and unfulfilled dreams in the Roaring Twenties.",
+      "cover_image_url": "https://example.com/book1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Classic Literature",
+      "price": 14.99,
+      "description": "A powerful novel addressing issues of race and morality in the American South.",
+      "cover_image_url": "https://example.com/book2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "category": "Science Fiction",
+      "price": 9.99,
+      "description": "A comedic journey through space, time, and absurdity.",
+      "cover_image_url": "https://example.com/book3.jpg"
+    },
+    {
+      "id": 50,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Classic Literature",
+      "price": 11.99,
+      "description": "A timeless novel of love, class, and social manners in 19th-century England.",
+      "cover_image_url": "https://example.com/book50.jpg"
+    },
+    {
+      "id": 51,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "category": "Science Fiction",
+      "price": 13.99,
+      "description": "A dystopian vision of a future society driven by pleasure and conformity.",
+      "cover_image_url": "https://example.com/book51.jpg"
+    },
+    {
+      "id": 52,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Classic Literature",
+      "price": 10.99,
+      "description": "The story of a young man's journey through the challenges of adolescence and society.",
+      "cover_image_url": "https://example.com/book52.jpg"
+    }
+  ]
+}
